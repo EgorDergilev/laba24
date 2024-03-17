@@ -2,7 +2,6 @@
 #include <string>
 #include <algorithm>
 
-//int
 
 // Добавляем пространство имен std для упрощения использования стандартных функций
 using namespace std;
