@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main() {
+int main() { 
     setlocale(LC_ALL,"Russian");
     string input, output;                            //переменные ввод/вывод
     cout << "¬ведите строку: ";
