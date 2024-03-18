@@ -16,7 +16,7 @@ int main() {
         }
     }
     
-    cout << "Результат: " << output << endl;
+    cout << "Результат: " << output << endl;          //готово!
     
     return 0;
 }
