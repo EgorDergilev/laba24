@@ -6,7 +6,7 @@ using namespace std;
 
 int main() { 
     setlocale(LC_ALL,"Russian");
-    string input, output;                            //переменные ввод/вывод
+    string input, output;                            //переменные ввод,вывод17
     cout << "Введите строку: ";
     getline(cin, input);
     
@@ -16,7 +16,7 @@ int main() {
         }
     }
     
-    cout << "Результат: " << output << endl;
+    cout << "Результат: " << output << endl;          //готово!
     
     return 0;
 }
